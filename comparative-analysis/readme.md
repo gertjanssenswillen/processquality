@@ -16,3 +16,6 @@ For more information, we refer to the manuscript
 The models have a similar naming schema as the logs, refering to the log they were discovered from, but the algorithm used is added to the name.
 
 4. Computational results: for each combination of model and log, different quality metrics.
+
+
+The data can be used freely for future research. If you do so, please be so kind to let me know at gert.janssenswillen@uhasselt.be
